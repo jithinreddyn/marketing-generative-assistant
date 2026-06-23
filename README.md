@@ -1,6 +1,6 @@
 # Generative Media Marketing Assistant - Prudential Health
 
-A brand-aware AI media tool for **Prudential sHealth Insurance Limited**. Describe any media idea in plain language — photo, video, animation, mascot, campaign, social post — and get back a brand-aligned creative brief plus a generated image or video, all in Prudential's visual world.
+A brand-aware AI media tool for **Prudential Health Insurance Limited**. Describe any media idea in plain language — photo, video, animation, mascot, campaign, social post — and get back a brand-aligned creative brief plus a generated image or video, all in Prudential's visual world.
 
 ---
 
