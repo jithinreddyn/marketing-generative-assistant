@@ -1,4 +1,4 @@
-# Prudential Health India — Generative Media Marketing Assistant
+# Generative Media Marketing Assistant - Prudential Health
 
 A brand-aware AI media tool for **Prudential sHealth Insurance Limited**. Describe any media idea in plain language — photo, video, animation, mascot, campaign, social post — and get back a brand-aligned creative brief plus a generated image or video, all in Prudential's visual world.
 
